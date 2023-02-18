@@ -51,10 +51,17 @@ ul{
  
 }
 .part-2 .signup{
+    border-radius: 10px;
     flex-basis:30px;
     width:100px;
+    background: #3882f6;
+    color:#F9FAF8;
 }
 
 .section-1{
     padding: 0 200px 50px 200px;
+}
+.img img{
+    display: inline-block;
+    width:700px;
 }
