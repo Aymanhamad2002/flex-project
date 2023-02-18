@@ -7,3 +7,18 @@ body{
 .section-3{
     background-color:#E5E7EB ;
 }
+.Maintext{
+    color: #f9faf8;
+    font-size:48px;;
+    font-weight:bolder;
+
+}
+.right,.container-1 .text {
+    color:#E5E7EB;
+    font-size:18px;
+
+}
+.left{
+    color:#F9FAF8;
+    font-size:24px;
+}
