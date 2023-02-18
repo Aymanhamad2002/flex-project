@@ -153,3 +153,13 @@ font-weight: bold;
     color: #F9FAF8;
     font-size:18px ;
 }
+.footer{
+    color:#F9FAF8;
+    font-size: 15px;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
