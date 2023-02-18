@@ -102,9 +102,18 @@ ul{
 .section-3 .text{
     color:#1F2937;
     font-size: 36px;
-    font-weight:300 ;
+    font-weight:300;
 }
 .section-3 .author{
+    align-self:flex-end;
     font-size: 20px;
     font-weight:bolder ;
+    margin-top: 15px;
+}
+.section-3{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px 200px 50px 200px;
 }
