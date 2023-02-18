@@ -50,7 +50,7 @@ ul{
     
  
 }
-.part-2 .signup{
+.part-2 .signup {
     border-radius: 10px;
     flex-basis:30px;
     width:100px;
@@ -134,4 +134,22 @@ ul{
     height:75px;
     padding:0 50px 0 50px;
     
+}
+.wrap .signup{
+    width:70px;
+    height:30px;
+    border-radius:5px;
+    background:#3882f6;
+    color:#F9FAF8;
+    border-color: #F9FAF8;
+    font-size: 13px;
+}
+.wrap .header{
+font-size: 24px;
+color: #F9FAF8;
+font-weight: bold;
+}
+.wrap .text{
+    color: #F9FAF8;
+    font-size:18px ;
 }
