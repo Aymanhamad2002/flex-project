@@ -15,7 +15,7 @@ body{
     font-weight:bolder;
 
 }
-.right,.container-1 .text,.item .text {
+.right,.container-1 .text{
     color:#E5E7EB;
     font-size:18px;
 
@@ -68,5 +68,30 @@ ul{
     color:#1F2937;
     font-size:36px;
     font-weight:bolder;
+    margin-bottom:40px;
     
+}
+.section-2{
+    text-align: center;
+    margin-top:40px;
+    margin-bottom:100px;
+}
+.item img{
+    height:150px;
+    width:150px;
+}
+.container-2{
+    display:flex;
+    justify-content: center;
+
+}
+.item{
+    flex-basis: 350px;
+
+}
+.item .text{
+    font-size:18px;
+    color:#1F2937;
+
+
 }
