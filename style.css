@@ -95,3 +95,12 @@ ul{
 
 
 }
+.section-3{
+    background-color: lightgrey;
+
+}
+.section-3 .text{
+    color:#1F2937;
+    font-size: 36px;
+    font-weight: lighter ;
+}
