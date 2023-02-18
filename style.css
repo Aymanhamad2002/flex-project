@@ -102,5 +102,9 @@ ul{
 .section-3 .text{
     color:#1F2937;
     font-size: 36px;
-    font-weight: lighter ;
+    font-weight:300 ;
+}
+.section-3 .author{
+    font-size: 20px;
+    font-weight:bolder ;
 }
